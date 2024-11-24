@@ -36,7 +36,7 @@
 		"prettier-plugin-jsdoc": "^1.1.1",
 		"prettier-plugin-tailwindcss": "^0.5.9",
 		"typescript": "^5.3.3",
-		"vite": "^5.4.5",
+		"vite": "^5.4.6",
 		"vite-plugin-tsconfig-paths": "^1.4.1",
 		"vitest": "^2.1.1"
 	},
